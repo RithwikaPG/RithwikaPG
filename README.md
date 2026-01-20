@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Third-year Robotics and Automation Engineering student with interests in:<br><br>🤖 Robotics & Automation<br><br>💻 Software Development<br><br>📊 Data Analytics<br><br>Skills: C, C++, Python, SQL, Excel, Power BI, SolidWorks, Fusion 360<br>Seeking internships or entry-level roles for hands-on experience and real-world problem solving.</p>
+<p align="left">Third-year Robotics and Automation Engineering student passionate about building smart systems and meaningful software.<br><br>🤖 Making robots move<br>💻 Writing clean, logical code<br>📊 Turning data into decisions</p>
 
 ###
 
