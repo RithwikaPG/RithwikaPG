@@ -11,7 +11,7 @@
 
 ## 💫 About Me
 
-🎓 Third-year **Robotics and Automation Engineering** student, passionate about building smart systems and meaningful software.
+🎓 Final-year **Robotics and Automation Engineering** student, passionate about building smart systems and meaningful software.
 
 - 🤖 Making robots move
 - 💻 Writing clean, logical code
