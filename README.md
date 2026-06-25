@@ -1,24 +1,133 @@
-# 💫 About Me:
-Third-year Robotics and Automation Engineering student passionate about building smart systems and meaningful software.<br><br>🤖 Making robots move<br><br>💻 Writing clean, logical code<br><br>📊 Turning data into decisions
+<div align="center">
 
+<!-- Animated typing header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C4CC&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Rithwika+PG+%F0%9F%91%8B;Robotics+%26+Automation+Engineer;Building+Smart+Systems+%26+Software;Turning+Data+into+Decisions" alt="Typing SVG" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rithwikapg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rithvikapg@gmail.com) 
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat-square&logo=nVIDIA&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat-square&logo=Raspberry-Pi) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RithwikaPG&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RithwikaPG&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RithwikaPG&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img align="right" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=RithwikaPG&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 💫 About Me
+
+🎓 Third-year **Robotics and Automation Engineering** student, passionate about building smart systems and meaningful software.
+
+- 🤖 Making robots move
+- 💻 Writing clean, logical code
+- 📊 Turning data into decisions
+- 🌱 Currently exploring embedded systems, computer vision, and AI-driven automation
+- ⚡ Fun fact: I debug hardware and software with equal enthusiasm
+
+<br clear="right"/>
 
 ---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/rithwikapg" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:rithvikapg@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+**Languages**
+
+<p align="left">
+<img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+</p>
+
+**Robotics & Hardware**
+
+<p align="left">
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white"/>
+<img src="https://img.shields.io/badge/nVIDIA-76B900?style=for-the-badge&logo=nVIDIA&logoColor=white"/>
+</p>
+
+**AI / Data**
+
+<p align="left">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
+</p>
+
+**Cloud, Tools & Platforms**
+
+<p align="left">
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=RithwikaPG&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RithwikaPG&theme=radical&hide_border=true" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RithwikaPG&layout=compact&theme=radical&hide_border=true" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RithwikaPG&theme=radical&hide_border=true" width="49%" />
+
+</div>
+
+---
+
+## 🏆 Top Contributed Repository
+
+<div align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=RithwikaPG&limit=5&theme=radical&combine_all_yearly_contributions=true" />
+</div>
+
+---
+
+## ✍️ Random Dev Quote
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/RithwikaPG/RithwikaPG/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+> **Note:** The snake animation above requires a one-time setup via GitHub Actions ([platane/snk](https://github.com/Platane/snk)) in this profile repo. Ask me if you'd like the workflow file added.
+
+---
+
+<div align="center">
+
 [![](https://visitcount.itsvg.in/api?id=RithwikaPG&icon=0&color=0)](https://visitcount.itsvg.in)
 
+⭐️ *Thanks for stopping by — let's build something great together!*
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+</div>
