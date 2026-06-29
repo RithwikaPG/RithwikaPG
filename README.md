@@ -11,12 +11,12 @@
 
 ## 💫 About Me
 
-🎓 Final-year **Robotics and Automation Engineering** student, passionate about building smart systems and meaningful software.
+🎓 Final-year Robotics & Automation Student | Aspiring Data Analyst | AI • Machine Learning • Python • SQL • Power BI
 
 - 🤖 Making robots move
 - 💻 Writing clean, logical code
 - 📊 Turning data into decisions
-- 🌱 Currently exploring embedded systems, computer vision, and AI-driven automation
+- 🌱 Currently computer vision,  data cleaning , data preprocessing and AI-driven automation
 - ⚡ Fun fact: I debug hardware and software with equal enthusiasm
 
 <br clear="right"/>
